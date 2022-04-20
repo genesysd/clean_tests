@@ -1,0 +1,6 @@
+{"col_name":"call_id_c","data_type":"double"}
+{"col_name":"call_date_c","data_type":"timestamp"}
+{"col_name":"company_id_c","data_type":"double"}
+{"col_name":"date_created_c","data_type":"timestamp"}
+{"col_name":"date_last_modified_c","data_type":"timestamp"}
+{"col_name":"_fivetran_deleted","data_type":"boolean"}
